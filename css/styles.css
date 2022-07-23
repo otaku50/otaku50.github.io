@@ -170,3 +170,18 @@ h1, h2, h3 {
 	margin: 0 10px;
 	color: #000;
 }
+
+.markdown-section img{
+	max-width: 100%;
+	padding: 0.5em 0;
+	margin: auto;
+	display: block;
+}
+.caption{
+	color: #444;
+display: block;
+font-size: 0.9em;
+margin-top: 0.1em;
+position: relative;
+text-align: center;
+}
